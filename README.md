@@ -23,7 +23,7 @@ Contributions are welcome. But we cannot guarantee that all suggestions will be 
 
 ## License & Author
 
-The component was initially implemented by [TRANScurity](http://www.transcurity.co/) and is distributed under the GNU LGPL 3.0 (see ``LICENSE.TXT``)
+The component was initially implemented by [TRANScurity](http://www.transcurity.co/) and is distributed under the GNU LGPL 3.0 (see ``LICENSE`` file)
 
 # Developer Guide
 ## Getting started
