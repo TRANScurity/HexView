@@ -23,3 +23,9 @@ hs_err_pid*
 
 # Dump files
 sh.exe.stackdump
+
+# Eclipse project files
+/target/
+/.classpath
+/.project
+/.settings
