@@ -32,7 +32,7 @@ You can import the artifact by:
 
 ```xml
 <dependency>
-    <groupId>com.github.transcurit</groupId>
+    <groupId>com.github.transcurity</groupId>
     <artifactId>HexView</artifactId>
     <version>x.y.z</version>
 </dependency>
