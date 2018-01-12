@@ -1,0 +1,28 @@
+@mixin hex-view() {
+  .hex-grid .v-grid-cell {
+    
+  }
+
+  .hex-grid .v-grid-header {
+    font-weight: bold !important;
+  }
+
+  .v-grid-cell.hex-offset-cell {
+    text-align: left;
+    font-weight: bold;
+  }
+
+  .v-grid-cell.hex-data-cell {
+    font-family: monospace;
+    text-align: center;
+    font-weight: normal;
+  }
+
+  .v-grid-cell.hex-ascii-cell {
+    font-family: monospace;
+    font-weight: normal;
+    white-space: pre;
+    display: inline-block;
+    text-align: left;
+  }
+}
