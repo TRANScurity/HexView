@@ -32,9 +32,9 @@ You can import the artifact by:
 
 ```xml
 <dependency>
-    <groupId>co.transcurity.vaadin.addons</groupId>
+    <groupId>com.github.transcurit</groupId>
     <artifactId>HexView</artifactId>
-    <version>1.0.0-SNAPSHOT</version>
+    <version>x.y.z</version>
 </dependency>
 ```
 
