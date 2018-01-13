@@ -63,7 +63,7 @@ hexView.addCustomStyleRange(0, 64, "peHexStyleDosHeader");
 hexView.addCustomStyleRange(0, 2, "peHexStyleDosHeaderEmagic");
 hexView.addCustomStyleRange(60, 4, "peHexStyleDosHeaderElfanew");
 hexView.addCustomStyleRange(64, 160, "peHexStyleDosStub");
-hexView.addCustomStyleRange(224, 228, "peHexStyleNtHeaders");
+hexView.addCustomStyleRange(224, 128, "peHexStyleNtHeaders");
 hexView.addCustomStyleRange(224, 4, "peHexStyleNtHeadersSignature");
 ```
 
