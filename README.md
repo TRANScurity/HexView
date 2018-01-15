@@ -27,6 +27,12 @@ Contributions are welcome. But we cannot guarantee that all suggestions will be 
 * Send a pull request for the original project
 * Comment your issue that your changes are ready for review
 
+## Development with Eclipse IDE
+
+Eclipse IDE supports Maven projects by nature. But the basic tests of this project are implemented with help of the Spock Framework. It's based on the Groovy programming language. If you would like to integrate and reuse it, you could look out for ``Groovy for Eclipse`` Plugin.
+
+If you would like to contribute we don't insist on Spock tests! The main point is that you write tests! Feel free to use the convenient framework that fulfills your/our needs! But don't reinvent the wheel and, as far as possible, rely on established frameworks, such as [AssertJ](http://joel-costigliola.github.io/assertj/).
+
 ## License & Author
 
 The component was initially implemented by [TRANScurity](http://www.transcurity.co/) and is distributed under the GNU LGPL 3.0 (see ``LICENSE`` file)
@@ -72,12 +78,6 @@ hexView.addCustomStyleRange(64, 160, "peHexStyleDosStub");
 hexView.addCustomStyleRange(224, 248, "peHexStyleNtHeaders");
 hexView.addCustomStyleRange(224, 4, "peHexStyleNtHeadersSignature");
 ```
-
-## Development with Eclipse IDE
-
-Eclipse IDE supports Maven projects by nature. But the basic tests of this project are implemented with help of the Spock Framework. It's based on the Groovy programming language. If you would like to integrate and reuse it, you could look out for ``Groovy for Eclipse`` Plugin.
-
-If you would like to contribute we don't insist on Spock tests! The main point is that you write tests! Feel free to use the convenient framework that fulfills your/our needs! But don't reinvent the wheel and, as far as possible, rely on established frameworks, such as [AssertJ](http://joel-costigliola.github.io/assertj/).
 
 ### Theming
 
