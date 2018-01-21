@@ -12,7 +12,7 @@ HexView represents a simple UI component for visualization of binary data in a H
 
 ## Roadmap
 
-The component is used by our [analysis platform](http://platform.transcurity.co/) for executable formats and satisfies the current requirements. In future, it also requires a non-read-only mode. Further features and/or contributions by external users are welcome!
+The component is used by our [analysis platform](http://platform.transcurity.co/) for executable formats and satisfies the current requirements. In future, it also requires a non-read-only mode (Hex Editor). Further features and/or contributions by external users are welcome!
 
 ## Issue tracking
 
